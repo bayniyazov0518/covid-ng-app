@@ -6,6 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
+    "homepage": "bayniyazov0518.github.io/covid-ng-app",
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
